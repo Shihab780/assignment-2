@@ -24,8 +24,12 @@
 }
 .nav-links{
     padding: 10px;
-    border: 2px solid red;
+    border: 1px solid rgb(99, 98, 98);
     border-radius: 30px;
+}
+.nav-links :hover{
+    border-radius: 8px;
+    background-color: #E6533C;
 }
 
 .navber{
